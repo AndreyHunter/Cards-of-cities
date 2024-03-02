@@ -3,7 +3,7 @@ renderBtn.addEventListener('click', request, {once: true});
 
 function request() {
     const xhr = new XMLHttpRequest();
-    xhr.open('GET', '../data.json');
+    xhr.open('GET', 'https://andreyhunter.github.io/data.json');
 
     xhr.onreadystatechange = function () {
         if (xhr.readyState === 4 && xhr.status === 200) {
