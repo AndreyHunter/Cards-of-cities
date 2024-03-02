@@ -1,0 +1,76 @@
+{
+    "people": [
+      {
+        "country": "Ukraine",
+        "city": "Kyiv",
+        "desc": "Kyiv, the capital and largest city of Ukraine, is situated along the banks of the Dnieper River. With a population of approximately 2.1 million in the urban area, it serves as the cultural, political, and economic hub of the country. Kyiv boasts stunning architecture, a rich history, and vibrant cultural life, making it one of Europe’s most captivating cities",
+        "photo": "https://www.rbc.ua/static/img/2/_/2___2933_1200x675.jpg"
+      },
+      {
+          "country": "Sweden",
+          "city": "Stockholm",
+          "desc": "Stockholm, the capital and largest city of Sweden, is built upon numerous islands where Lake Mälaren flows into the Baltic Sea. With approximately 1 million residents in the municipality and 2.1 million in the urban area, it serves as the cultural, media, political, and economic center of Sweden. The city’s stunning architecture, vibrant culture, and rich history make it one of the most beautiful capitals in the world",
+          "photo": "https://kiyavia.com/files/cities/sweden/Stokgolm_8-min.jpg"
+      },
+      {
+          "country": "Japan",
+          "city": "Tokyo",
+          "desc": "Tokyo, the bustling capital of Japan, stands as a vibrant metropolis that seamlessly merges modernity with tradition. With a skyline dominated by futuristic skyscrapers and neon lights, Tokyo is a global epicenter of technology, innovation, and pop culture. Home to iconic landmarks like the Tokyo Tower and the historic Senso-ji Temple, the city offers a unique blend of ancient and contemporary attractions. Tokyo is a paradise for food enthusiasts, boasting diverse culinary experiences from street food stalls to Michelin-starred restaurants.",
+          "photo": "https://kartinki.pics/uploads/posts/2021-07/1625694382_37-kartinkin-com-p-tokio-oboi-krasivie-43.jpg"
+      },
+      {
+        "country": "Norway",
+        "city": "Reine",
+        "desc": "Reine is a picturesque fishing village located on the island of Moskenesøya in the Lofoten archipelago of Norway. Nestled between stunning mountains and overlooking the scenic Reinefjorden, the village is renowned for its breathtaking natural beauty. Reine is characterized by traditional red and yellow fishing cabins known as rorbuer, which add a vibrant splash of color to the landscape.",
+        "photo": "https://www.fjordtours.com/media/3270/visit-norway-norge-norway-fotoknoff-4065969-foto_sven-erik_knoff.jpg?anchor=center&mode=crop&width=1120&height=1120&rnd=133214406770000000&slimmage=True"
+    },
+    {
+        "country": "China",
+        "city": "Hong Kong",
+        "desc": "Just 200 years ago, it was an unremarkable island, where an enterprising Englishman noticed a convenient bay for ships. Now, Hong Kong is regularly ranked among the most beautiful cities in the world. And although the island has left the jurisdiction of the UK and joined China, Hong Kong remains one of the most attractive destinations for tourists.",
+        "photo": "https://s1.1zoom.me/big0/94/Hong_Kong_China_438002.jpg"
+    },
+    {
+        "country": "Montenegro",
+        "city": "Perast",
+        "desc": "This small town is located on the shores of a beautiful bay, in the shadow of majestic green mountains. If you want to enjoy the beautiful architecture, swim in the sea (only in summer or early autumn) and taste delicious food, then Perast will be just a great choice.",
+        "photo": "https://kotor.travel/wp-content/uploads/2021/04/cover.jpg"
+    },
+    {
+        "country": "Netherlands",
+        "city": "Amsterdam",
+        "desc": "A city of canals, art, commerce and, for many, forbidden pleasures. Amsterdam was once the center of world trade. Merchants from all over the world flocked here, offering a variety of curiosities - from oriental spices to gold products from South America. Even now, the port of Amsterdam is one of the largest in the world.",
+        "photo": "https://s1.1zoom.me/b5148/894/Netherlands_Amsterdam_Houses_Rivers_Evening_529829_2560x1440.jpg"
+    },
+    {
+        "country": "Australia",
+        "city": "Sydney",
+        "desc": "Once upon a time, criminals from all over England and Scotland were brought here, and now there is one of the most comfortable cities to live in. Sydney is often added to various ratings of famous cities in the world. This is a real metropolis, where palm trees and sand are squeezed in among huge skyscrapers.",
+        "photo": "https://a.cdn-hotels.com/gdcs/production0/d1645/0c67ff64-cf54-4886-91dd-89aa601463af.jpg"
+    },
+    {
+        "country": "Italy",
+        "city": "Bergamo",
+        "desc": "One of the most comfortable and cozy cities in Italy. Bergamo is a fairly small city, with a population of barely more than 100,000 people. That is why, if you are tired of the hustle and bustle of Milan, Florence or Rome on your trip, welcome to Bergamo!",
+        "photo": "https://peakvisor.com/photo/Bergamo-Italy.jpg"
+    },
+    {
+        "country": "Germany",
+        "city": "Munich",
+        "desc": "The center of the federal state of Bavaria, as well as a city with an ancient brewing tradition. Munich is a center of culture and art, so there are always a lot of tourists here. In October, Munich hosts one of the most famous festivals in the world, Oktoberfest. Here you can taste a huge variety of beers and sausages.",
+        "photo": "https://a.travel-assets.com/findyours-php/viewfinder/images/res70/501000/501501-munich.jpg"
+    },
+    {
+        "country": "South Africa",
+        "city": "Cape Town",
+        "desc": "Cape Town is a city in South Africa, which is located on the shores of the Atlantic Ocean. Around the city are beautiful cliffs, which are especially beautiful at dawn or sunset, when the sun slowly sinks into the blue waters of the ocean.",
+        "photo": "https://cdn.britannica.com/42/126842-050-0803BC41/Sea-Point-Cape-Town-SAf.jpg"
+    },
+    {
+        "country": "Colombia",
+        "city": "Guatapé",
+        "desc": "A small and very romantic village in Colombia. The architecture of the town would not be remarkable if it were not for the traditional bas-reliefs on the buildings. Not every tourist can get here. However, those who managed to visit it insisted on one thing - this is a great place for rafting on the river, fishing or cycling. Also, many people go here for a romantic vacation with their soulmate.",
+        "photo": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBYZUrn.img?h=749&w=1438&m=6&q=60&u=t&o=f&l=f"
+    }
+    ]
+}
