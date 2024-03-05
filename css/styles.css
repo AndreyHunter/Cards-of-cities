@@ -97,8 +97,8 @@ img {
     object-fit: cover;
     width: 100%;
     height: 100%;
-    border-radius: 10px;
-    transition: .2s ease-in-out;
+    border-radius: 8px;
+    transition: filter .2s ease-in-out, opacity .2s ease-in-out;
     filter: blur(5px) brightness(60%);
 }
 
@@ -122,6 +122,7 @@ img {
 
 .list__item-desc {
     font-size: 1.5em;
+    padding: 20px;
     color: rgb(255, 255, 255);
 }
 
@@ -136,8 +137,16 @@ img {
     padding: 20px;
 }
 
+.borderRadiusNone {
+    border: none;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
 .filter {
     filter: blur(0)  brightness(80%);
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
 }
 
 .opacity {

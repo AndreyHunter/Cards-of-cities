@@ -66,6 +66,7 @@ function toggleElementClasses(element, toggle = true) {
         const method = toggle ? 'toggle' : 'remove';
         image.classList[method]('filter');
         title.classList[method]('opacity');
+        element.classList[method]('borderRadiusNone');
     }
 }
 
@@ -77,13 +78,11 @@ function showElement() {
 
     if (isAlreadyActive) {
         content.style.height = null;
-        content.style.padding = '';
         toggleElementClasses(this, false);
         lastActive = null;
     } else {
         if (!isAlreadyActive) toggleElementClasses(this);
         lastActive = this;
-        content.style.height = `${content.scrollHeight + 60}px`;
-        content.style.padding = '20px';
+        content.style.height = `${content.scrollHeight}px`;
     }
 }
